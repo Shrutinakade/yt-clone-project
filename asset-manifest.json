@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yt-clone-project/static/css/main.7064deb2.css",
+    "main.js": "/yt-clone-project/static/js/main.4618a313.js",
+    "index.html": "/yt-clone-project/index.html",
+    "main.7064deb2.css.map": "/yt-clone-project/static/css/main.7064deb2.css.map",
+    "main.4618a313.js.map": "/yt-clone-project/static/js/main.4618a313.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.4618a313.js"
+  ]
+}
